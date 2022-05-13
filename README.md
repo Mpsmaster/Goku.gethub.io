@@ -33,7 +33,5 @@
 <p>Tempo total de execução do projeto:</p>
 
 <p>⏰ 1 dias</p>
-<p>
-  <img src="https://wakatime.com/badge/user/e7b8ca2e-291c-4eca-846b-95eced7beff1/project/533c7f0a-58ab-40d4-ac69-56621be38de4.svg" alt="tempo total do projeto">
-</p>
+
 <p>✅ <strong>Concluído</strong></p>
